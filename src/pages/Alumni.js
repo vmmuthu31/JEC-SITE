@@ -41,6 +41,121 @@ const Alumni = () => {
             </div>
           </label>
         </div>
+        <div class="alumini-container ">
+          <label class="textOverImage">
+            <input type="checkbox" />
+            <h2>Bharath Raj</h2>
+
+            <div>
+              Age: 24
+              <br />
+              Date Of Birth: 22.07.00
+              <br />
+              Reg No: 110820184046
+              <br />
+              Batch: 2018-21
+              <br />
+              Company: Deloitte
+              <br />
+              Position: Software Developer
+              <br />
+              Experience: 2 years
+              <br />
+            </div>
+          </label>
+        </div>
+        <div class="alumini-container ">
+          <label class="textOverImage">
+            <input type="checkbox" />
+            <h2>Bharath Raj</h2>
+
+            <div>
+              Age: 24
+              <br />
+              Date Of Birth: 22.07.00
+              <br />
+              Reg No: 110820184046
+              <br />
+              Batch: 2018-21
+              <br />
+              Company: Deloitte
+              <br />
+              Position: Software Developer
+              <br />
+              Experience: 2 years
+              <br />
+            </div>
+          </label>
+        </div>
+        <div class="alumini-container ">
+          <label class="textOverImage">
+            <input type="checkbox" />
+            <h2>Bharath Raj</h2>
+
+            <div>
+              Age: 24
+              <br />
+              Date Of Birth: 22.07.00
+              <br />
+              Reg No: 110820184046
+              <br />
+              Batch: 2018-21
+              <br />
+              Company: Deloitte
+              <br />
+              Position: Software Developer
+              <br />
+              Experience: 2 years
+              <br />
+            </div>
+          </label>
+        </div>
+        <div class="alumini-container ">
+          <label class="textOverImage">
+            <input type="checkbox" />
+            <h2>Bharath Raj</h2>
+
+            <div>
+              Age: 24
+              <br />
+              Date Of Birth: 22.07.00
+              <br />
+              Reg No: 110820184046
+              <br />
+              Batch: 2018-21
+              <br />
+              Company: Deloitte
+              <br />
+              Position: Software Developer
+              <br />
+              Experience: 2 years
+              <br />
+            </div>
+          </label>
+        </div>
+        <div class="alumini-container ">
+          <label class="textOverImage">
+            <input type="checkbox" />
+            <h2>Bharath Raj</h2>
+
+            <div>
+              Age: 24
+              <br />
+              Date Of Birth: 22.07.00
+              <br />
+              Reg No: 110820184046
+              <br />
+              Batch: 2018-21
+              <br />
+              Company: Deloitte
+              <br />
+              Position: Software Developer
+              <br />
+              Experience: 2 years
+              <br />
+            </div>
+          </label>
+        </div>
       </div>
       <div className="Alumini-div">
         {state.aluminis.map((alumini) => (
